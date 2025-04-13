@@ -14,7 +14,7 @@ This image recovery can be done using lasso and ridge regression techniques.
 
 First we use lasso to recover the image and select optimal lambda using 10-fold cross-validation (CV).
 
-Next, we use ridge regression to recover the image with same CV.
+Next, we use ridge regression to recover the image with same CV. (The data is in cs.mat file)
 
 
 
